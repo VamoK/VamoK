@@ -14,5 +14,6 @@
 </ul>
 <h3>💻 Projects</h3>
 <ol>
-    <li>Get DocuWare Users, Groups, and Roles(</li>
+    <li style='decoration: none;'><a href='https://github.com/VamoK/Groups-And-Users-API'>Get DocuWare Users, Groups, and Roles</a></li>
+    <li><a href=''>Police DOcket System</a></li>
 </ol>
