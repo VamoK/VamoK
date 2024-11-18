@@ -1,41 +1,14 @@
-Hi there, I am Vamokuhle Khumalo
-
-<h2>Get to know Vamokuhle Khumalo</h2><br>
-<p>Vamokuhle Khumalo is a graduate from Tshwane University of Technology with skills in the following coding languages and frameworks</p>
-    <ul>
-      <li>Java</li>
-      <li>Spring boot</li>
-      <li>JavaFX</li>
-      <li>Java EE</li>
-      <li>MySQL</li>
-      <li>JavaScript</li>
-      <li>JQuery</li>
-      <li>PlanetPress</li>
-      <li>HTML 5 & CSS 3</li>
-      <li>API  development</li>
-      <li>Postman</li>
-    </ul>
-
-    <p>With the skills listed above he was able to create projects listed below:</p>
-
-    <h3>Software Projects</h3>
-    <ul>
-        <li>Police Docket System</li
-    </ul>
-
-
-
-<!--
-**VamoK/VamoK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>👋 Hi, I'm Vamokuhle Khumalo</h1>
+<h3>🚀 About Me</h3>
+<p>I am a proud graduate of <b>Tshwane University of Technology</b>, passionate about crafting seamless digital experiences. My journey in software development has equipped me with a versatile skill set, spanning both backend and frontend technologies. Whether it's building robust APIs or creating dynamic user interfaces, I thrive on turning ideas into reality. Even though I have  a strong preference for backend development, I enjoy working on robust systems and APIs. However, I am always open to exploring frontend development as I thrive on learning new skills and pushing boundaries.</p>
+<h3>🛠️ My Toolbox</h3>
+<p>Here’s what I bring to the table:</p>
+<ul>
+    <li><b>Java</b> (Core, EE , FX)</li>
+    <li><b>Springboot</b>(Microservices, SOAP APIs)</li>
+    <li><b>JavaScript & jQuery</b>(Interactive Web Development)</li>
+    <li><b>PlanetPress</b>(Document Automation)</li>
+    <li><b>HTML & CSS</b>(Responsive Design & Styling)</li>
+    <li><b>API Development</b>(REST, Postman Testing, SOAP)</li>
+    <li><b>MySQl</b>(Database Design & Management)</li>
+</ul>
