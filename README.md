@@ -12,3 +12,7 @@
     <li><b>API Development</b>(REST, Postman Testing, SOAP)</li>
     <li><b>MySQl</b>(Database Design & Management)</li>
 </ul>
+<h3>💻 Projects</h3>
+<ol>
+    <li>Get DocuWare Users, Groups, and Roles(</li>
+</ol>
