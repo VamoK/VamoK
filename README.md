@@ -10,7 +10,7 @@
     <li><b>PlanetPress</b>(Document Automation)</li>
     <li><b>HTML & CSS</b>(Responsive Design & Styling)</li>
     <li><b>API Development</b>(REST, Postman Testing, SOAP)</li>
-    <li><b>MySQl</b>(Database Design & Management)</li>
+    <li><b>MySQL</b>(Database Design & Management)</li>
 </ul>
 <h3>💻 Projects</h3>
 <ol>
