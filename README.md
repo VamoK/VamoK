@@ -1,7 +1,7 @@
 Hi there, I am Vamokuhle Khumalo
 
 <h2>Get to know Vamokuhle Khumalo</h2><br>
-<p>Vamokuhle Khumalo is a graduate from Tshwane University of Technology with skills in the following coding languages and frameworks
+<p>Vamokuhle Khumalo is a graduate from Tshwane University of Technology with skills in the following coding languages and frameworks</p>
     <ul>
       <li>Java</li>
       <li>Spring boot</li>
@@ -16,12 +16,13 @@ Hi there, I am Vamokuhle Khumalo
       <li>Postman</li>
     </ul>
 
-    With the skills listed above he was able to create projects listed below
+    <p>With the skills listed above he was able to create projects listed below:</p>
 
+    <h3>Software Projects</h3>
     <ul>
-      <li>Police Docket System</li>
+        <li>Police Docket System</li
     </ul>
-</p>
+
 
 
 <!--
