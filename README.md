@@ -16,5 +16,5 @@
 <ol>
     <li style='decoration: none;'><a href='https://github.com/VamoK/Groups-And-Users-API'>Get DocuWare Users, Groups, and Roles</a></li>
     <li><a href='https://github.com/VamoK/Police-Docket-System'>Police DOcket System</a></li>
-    <li><a href=''>Easy Access(Student Portal)</a></li>
+    <li><a href='https://github.com/VamoK/EasyAccessEJB'>Easy Access(Student Portal)</a></li>
 </ol>
