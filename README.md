@@ -1,4 +1,28 @@
-Hi there, I am Vamokuhle Khumalo. A Computer Science grdauate from Tshwane University of Technology. I am a software developer at Ricoh SA.
+Hi there, I am Vamokuhle Khumalo
+
+<h2>Get to know Vamokuhle Khumalo</h2><br>
+<p>Vamokuhle Khumalo is a graduate from Tshwane University of Technology with skills in the following coding languages and frameworks
+    <ul>
+      <li>Java</li>
+      <li>Spring boot</li>
+      <li>JavaFX</li>
+      <li>Java EE</li>
+      <li>MySQL</li>
+      <li>JavaScript</li>
+      <li>JQuery</li>
+      <li>PlanetPress</li>
+      <li>HTML 5 & CSS 3</li>
+      <li>API  development</li>
+      <li>Postman</li>
+    </ul>
+
+    With the skills listed above he was able to create projects listed below
+
+    <ul>
+      <li>Police Docket System</li>
+    </ul>
+</p>
+
 
 <!--
 **VamoK/VamoK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
