@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there, I am Vamokuhle Khumalo. A Computer Science grdauate from Tshwane University of Technology. I am a software developer at Ricoh SA.
 
 <!--
 **VamoK/VamoK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
