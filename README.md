@@ -18,11 +18,12 @@
     <li><a href='https://github.com/VamoK/Police-Docket-System'>Police Docket System</a></li>
     <li><a href='https://github.com/VamoK/EasyAccessEJB'>Easy Access(Student Portal)</a></li>
 </ol>
-<h3>🎓 Experience</h3>
+<h3>💼 Work Experience</h3>
 <p>
     I am currently employed at <strong>Ricoh SA</strong> as a <strong>Digital Service Support Consultant</strong>. 
     In this role, I engage directly with clients to understand their requirements and implement tailored solutions. 
     My work primarily involves leveraging <strong>PlanetPress</strong> to create workflows, web forms, and templates. 
     Additionally, I develop APIs (both REST and SOAP) for seamless integration with <strong>DocuWare</strong>.
 </p>
+
 
