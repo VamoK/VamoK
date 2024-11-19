@@ -18,6 +18,10 @@
     <li><a href='https://github.com/VamoK/Police-Docket-System'>Police Docket System</a></li>
     <li><a href='https://github.com/VamoK/EasyAccessEJB'>Easy Access(Student Portal)</a></li>
 </ol>
+<h3>🚀 Current Projects</h3>
+<ol>
+    <li>Timesheet API</li>
+</ol>
 <h3>💼 Work Experience</h3>
 <p>
     I am currently employed at <strong>Ricoh SA</strong> as a <strong>Digital Service Support Consultant</strong>. 
