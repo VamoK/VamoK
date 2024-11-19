@@ -20,7 +20,7 @@
 </ol>
 <h3>🚀 Current Projects</h3>
 <ol>
-    <li><a href='https://github.com/VamoK/Police-Docket-System'>Timesheet</a></li>
+    <li><a href='https://github.com/VamoK/Timesheet-API.git'>Timesheet</a></li>
 </ol>
 <h3>💼 Work Experience</h3>
 <p>
