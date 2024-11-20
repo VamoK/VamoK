@@ -18,7 +18,7 @@
     <li><a href='https://github.com/VamoK/Police-Docket-System'>Police Docket System</a></li>
     <li><a href='https://github.com/VamoK/EasyAccessEJB'>Easy Access(Student Portal)</a></li>
 </ol>
-<h3>🚀 Current Projects</h3>
+<h3>🚀 Current Project(s)</h3>
 <ol>
     <li><a href='https://github.com/VamoK/Timesheet-API.git'>Timesheet</a></li>
 </ol>
